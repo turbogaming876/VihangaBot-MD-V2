@@ -21,7 +21,7 @@ global.welcomeandgoodbye = 'true' //welcome එක off කරන්න ඕනෙ
 global.callblock = 'true' //call block on කරන්න ඕනෙ නම් false කියල තියෙන එක මකල true කියල දාන්න.
 global.inboxblock212 = 'false'
 global.onlygroup = 'false'
-global.group1 = 'https://chat.whatsapp.com/DSejC81By553gPhEEdTIeY' //මෙතන grouplink එක.
+global.group1 = '' //මෙතන grouplink එක.
 
 //Owner React
 global.OWNER_REACT = '🧑🏻‍💻' //මෙතනට emoji එකක දාන්න.
@@ -32,7 +32,7 @@ global.owner = ['2349131783574',''] //මෙතන number එක.
 global.premium = ['2349131783574','917373104400'] //මෙතන number එක.
 global.botname = 'OBIZZY BOT INC' //මෙතන නම.
 global.ownername = 'OBIZZY' //මෙතන නම.
-global.ownername = 'DARCO' //මෙතන නම.
+global.ownername = 'OBIZZY' //මෙතන නම.
 global.group2 = '' //මෙතන grouplink එක.
 global.packname = 'OBIZZY BOT INC' //මෙතන නම.
 global.cap = '*By OBIZZY MD*' //මෙතන නම.
